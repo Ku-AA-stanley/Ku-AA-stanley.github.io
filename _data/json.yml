@@ -6,12 +6,14 @@
     - Front-end dev1
     - Front-end dev2
     - Front-end dev3
+  typed: true
+
 - key: 跑馬燈
   value:
     - Hello, there!
     - I'm a front-end developer
-
   typed: true
+
 - key: CV
   value: cv.pdf
   url: /cv.pdf
@@ -29,7 +31,7 @@
     - key: Email
       value: username@domain.com
       url: "mailto:username@domain.com"
-      typed: true
+
 - key: Source
   value: piazzai/hacked-jekyll
   url: https://github.com/piazzai/hacked-jekyll

@@ -4,7 +4,9 @@
   value:
     - Hello!
     - This tiny website
-    - Looks like JSON
+    - Looks like JSON3
+    - Looks like JSON2
+    - Looks like JSON1
   typed: true
 - key: CV
   value: cv.pdf

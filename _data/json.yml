@@ -1,23 +1,19 @@
 - key: Name
   value: Place Holder
-
-- key: Source
-  value: piazzai/hacked-jekyll
-  url: https://github.com/piazzai/hacked-jekyll
-
+- key: Description
+  value:
+    - Hello!
+    - This tiny website
+    - Looks like JSON
+  typed: true
+- key: CV
+  value: cv.pdf
+  url: /cv.pdf
 - key: Address
   value:
     - University of Jekyll
     - Department of Themes
     - 123 Main St, Anytown, USA
-
-- key: Profiles
-  value:
-    - value: Instagram
-      url: https://www.instagram.com
-    - value: LinkedIn
-      url: https://www.linkedin.com
-
 - key: Contact
   value:
     - key: Office
@@ -27,3 +23,16 @@
     - key: Email
       value: username@domain.com
       url: "mailto:username@domain.com"
+- key: Source
+  value: piazzai/hacked-jekyll
+  url: https://github.com/piazzai/hacked-jekyll
+- key: Profiles
+  value:
+    - value: Instagram
+      url: https://www.instagram.com
+    - value: LinkedIn
+      url: https://www.linkedin.com
+    - value: StackOverflow
+      url: https://stackoverflow.com
+    - value: GitHub
+      url: https://github.com

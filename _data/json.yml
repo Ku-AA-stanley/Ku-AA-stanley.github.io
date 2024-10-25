@@ -2,14 +2,15 @@
   value: Chuang Peng Yang
 - key: Description1
   value:
-    - Front-end dev
-- key: Description2
+    - Front-end dev0
+    - Front-end dev1
+    - Front-end dev2
+    - Front-end dev3
+- key: 跑馬燈
   value:
-    - Hello!ASASASASSA
-    - This tiny website
-    - Looks like JSON3
-    - Looks like JSON2
-    - Looks like JSON1
+    - Hello, there!
+    - I'm a front-end developer
+
   typed: true
 - key: CV
   value: cv.pdf

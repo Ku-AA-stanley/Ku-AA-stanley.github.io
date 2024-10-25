@@ -29,6 +29,7 @@
     - key: Email
       value: username@domain.com
       url: "mailto:username@domain.com"
+      typed: true
 - key: Source
   value: piazzai/hacked-jekyll
   url: https://github.com/piazzai/hacked-jekyll

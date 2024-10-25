@@ -1,5 +1,5 @@
 - key: Name
-  value: Chuang Peng Yang
+  value: Bruce Yang
 - key: Description1
   value:
     - Front-end dev0
@@ -37,7 +37,7 @@
     # - value: Instagram
     # url: https://www.instagram.com
     - value: LinkedIn
-      # url: https://www.linkedin.com
+      url: https://www.linkedin.com/in/csby/
     # - value: StackOverflow
     # url: https://stackoverflow.com
     - value: GitHub
